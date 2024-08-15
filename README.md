@@ -1,3 +1,5 @@
+[Visit My Blog](https://advafzal.blogspot.com)
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Stories-with-afzal/Stack)
 
 [![Visit My Blog](https://advafzal.blogspot.com)](https://advafzal.blogspot.com)
