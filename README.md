@@ -1,3 +1,7 @@
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Stories-with-afzal/Stack)
+
+[![Visit My Blog](https://advafzal.blogspot.com)](https://advafzal.blogspot.com)
+
 A GitHub repository stack README file is a document that provides information about a project that uses a stack of different technologies or frameworks. A stack README file can help users understand the purpose, structure, and dependencies of your project, as well as how to install, run, and contribute to it.
 
 A good stack README file should include the following sections:
