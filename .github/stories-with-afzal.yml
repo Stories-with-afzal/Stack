@@ -1,0 +1,31 @@
+# Jekyll configuration for GitHub Pages
+
+# Site settings
+title: Afzal Hosen Mandal
+description: Lawyer | Founder, Afzal and Associates | Technology Enthusiast
+baseurl: "/"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Collections
+collections:
+  blogs:
+    output: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude files
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "vendor/bundle/"
+  - "vendor/cache/"
+  - "vendor/gems/"
+  - "vendor/ruby/"
