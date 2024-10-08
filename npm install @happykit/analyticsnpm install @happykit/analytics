@@ -1,0 +1,10 @@
+import { useAnalytics } from '@happykit/analytics';
+
+function MyApp({ Component, pageProps }) {
+  // Track page views
+  useAnalytics({ publicKey: "analytics_pub_63810b56be" })
+
+  return <Component {...pageProps} />
+}
+
+export default MyApp
